@@ -23,7 +23,7 @@ const Feed = () => {
   const [posts, setPosts] = useState([]);
 
   const handleSearchChange = (e) => {
-
+   
   }
 
   useEffect(() => {
